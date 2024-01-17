@@ -3,7 +3,7 @@
     background-image: url("Images/zachlevin.jpg");
   
     /* Set a specific height */
-    min-height: 1000px;
+    min-height: 400px;
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -14,3 +14,16 @@
     margin-left: -10px;
     margin-right: -10px;
   }
+
+body {
+  background-image: url("Images/zachlevin.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+  height: 1000px;
+  border: 10px solid white;
+}
