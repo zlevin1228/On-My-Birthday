@@ -135,38 +135,38 @@ section#timeline article:nth-child(2n+2) div.inner h2:after {
   left: -5px;
 }
 section#timeline article:nth-child(1) div.inner h2 {
-  background: #e74c3c;
+  background: #2E5D9D;
 }
 section#timeline article:nth-child(1) div.inner h2:after {
-  background: #e74c3c;
+  background: #2E5D9D;
 }
 section#timeline article:nth-child(2) div.inner h2 {
-  background: #2ecc71;
+  background: lightgreen;
 }
 section#timeline article:nth-child(2) div.inner h2:after {
-  background: #2ecc71;
+  background: lightgreen;
 }
 section#timeline article:nth-child(3) div.inner h2 {
-  background: #e67e22;
+  background: #e23636;
 }
 section#timeline article:nth-child(3) div.inner h2:after {
-  background: #e67e22;
+  background: #e23636;
 }
 section#timeline article:nth-child(4) div.inner h2 {
-  background: #1abc9c;
+  background: tan;
 }
 section#timeline article:nth-child(4) div.inner h2:after {
-  background: #1abc9c;
+  background: tan;
 }
 section#timeline article:nth-child(5) div.inner h2 {
-  background: #9b59b6;
+  background: orange;
 }
 section#timeline article:nth-child(5) div.inner h2:after {
-  background: #9b59b6;
+  background: orange;
 }
 section#timeline article:nth-child(6) div.inner h2 {
-  background: rgb(220, 223, 39);
+  background: #0076B6;
 }
 section#timeline article:nth-child(6) div.inner h2:after {
-  background: rgb(220, 223, 39);
+  background: #0076B6;
 }
