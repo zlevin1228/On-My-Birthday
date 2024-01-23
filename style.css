@@ -164,3 +164,9 @@ section#timeline article:nth-child(5) div.inner h2 {
 section#timeline article:nth-child(5) div.inner h2:after {
   background: #9b59b6;
 }
+section#timeline article:nth-child(6) div.inner h2 {
+  background: rgb(220, 223, 39);
+}
+section#timeline article:nth-child(6) div.inner h2:after {
+  background: rgb(220, 223, 39);
+}
