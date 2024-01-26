@@ -28,7 +28,7 @@ body {
   border: 10px solid white;
 }
 
-img#imgfix {
+img.imgfix {
   width: 100%;
   height: 100%;
 }
@@ -141,10 +141,10 @@ section#timeline article:nth-child(1) div.inner h2:after {
   background: #2E5D9D;
 }
 section#timeline article:nth-child(2) div.inner h2 {
-  background: lightgreen;
+  background: darkgreen;
 }
 section#timeline article:nth-child(2) div.inner h2:after {
-  background: lightgreen;
+  background: darkgreen;
 }
 section#timeline article:nth-child(3) div.inner h2 {
   background: #e23636;
