@@ -85,7 +85,7 @@ function year2008() {
     element.style.backgroundRepeat = "no-repeat";
     element.style.backgroundPosition = "center";
     document.getElementById('response-header-1').innerText = 'DECEMBER 28, 2008'
-    document.getElementById('response-header-2').innerText = 'Lions go 0-16 on the year'
+    document.getElementById('response-header-2').innerText = 'Lions go 0-16 on the season'
     document.getElementById('response-text-1').innerText = 'The 2008 Detroit Lions season was the 79th football season of the Detroit Lions of the National Football League (NFL). It was their third year under head coach Rod Marinelli. In 2008, the Lions had one of the worst seasons of any major American pro sports team. They lost all 16 of their regular season games. They were the first NFL team to finish a season with no wins and 16 losses after their loss to the Green Bay Packers.'
     document.getElementById('response-img-1').src = 'Images/danorlovsky.jpg'
     document.getElementById('response-text-2').innerText = 'The quarterback situation is retroactively blamed for the 2008 team’s historic failure. Then-Lions assistant coach Kippy Brown recently told the Free Press that he feels to this day Detroit would’ve won at least one game if it had stuck with Kitna all season. After putting Jon Kitna on IR, the Lions played Dan Orlovsky, then brought Daunte Culpepper out of retirement. But the rusty Culpepper played in only five games before suffering his own season-ending injury, forcing Orlovsky back into the spotlight. This was the season that Orlovsky became notorius for his "own safety."'
