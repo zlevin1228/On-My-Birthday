@@ -63,33 +63,33 @@ function year1954() {
 }
 
 function year2007() {
-    document.body.style.backgroundImage = "url('Images/space.jpg')";
+    document.body.style.backgroundImage = "url('Images/zachlevin.jpg')";
     let element = document.getElementById("parallax");
-    element.style.backgroundImage = "url('Images/space.jpg')";
+    element.style.backgroundImage = "url('Images/zachlevin.jpg')";
     element.style.backgroundRepeat = "no-repeat";
     element.style.backgroundPosition = "center";
-    document.getElementById('response-header-1').innerText = ''
-    document.getElementById('response-header-2').innerText = ''
-    document.getElementById('response-text-1').innerText = ''
-    document.getElementById('response-img-1').src = ''
-    document.getElementById('response-text-2').innerText = ''
-    document.getElementById('response-img-2').src = ''
-    document.getElementById('response-img-3').src = ''
+    document.getElementById('response-header-1').innerText = 'DECEMBER 28, 2007'
+    document.getElementById('response-header-2').innerText = 'My birthdate'
+    document.getElementById('response-text-1').innerText = 'Zachary Levin is a junior student and hockey player at Marlboro High School. He not only plays hockey for the school, but he is also a member of the Jersey Shore Wildcats organization. In his free time, he is a Level 3 official under USA Hockey, an employee for Jersey Shore Arena, and a Hip-Hop enthusiast. Some of his hobbies include playing video games, building brick models, listening to music, and more. During his high school years, he has been consistently on the honor roll and is a member of the National Honor Society.'
+    document.getElementById('response-img-1').src = 'Images/HOF.jpg'
+    document.getElementById('response-text-2').innerText = 'Down the road, he looks for an opportunity in a field with a large paying salary. He will spend his remaining high school years in the Web Design program, making many different websites, varying in importance. In his Wildcats season, he has 5 goals and 7 assists, totaling for 12 points that have contributed to their 20-14-1 season.'
+    document.getElementById('response-img-2').src = 'Images/hockey.jpg'
+    document.getElementById('response-img-3').src = 'Images/Halloween.jpg'
     window.scrollTo(0, 0);
 }
 
 function year2008() {
-    document.body.style.backgroundImage = "url('Images/space.jpg')";
+    document.body.style.backgroundImage = "url('Images/lionsbg.jpg')";
     let element = document.getElementById("parallax");
-    element.style.backgroundImage = "url('Images/space.jpg')";
+    element.style.backgroundImage = "url('Images/lionsbg.jpg')";
     element.style.backgroundRepeat = "no-repeat";
     element.style.backgroundPosition = "center";
-    document.getElementById('response-header-1').innerText = ''
-    document.getElementById('response-header-2').innerText = ''
-    document.getElementById('response-text-1').innerText = ''
-    document.getElementById('response-img-1').src = ''
-    document.getElementById('response-text-2').innerText = ''
-    document.getElementById('response-img-2').src = ''
-    document.getElementById('response-img-3').src = ''
+    document.getElementById('response-header-1').innerText = 'DECEMBER 28, 2008'
+    document.getElementById('response-header-2').innerText = 'Lions go 0-16 on the year'
+    document.getElementById('response-text-1').innerText = 'The 2008 Detroit Lions season was the 79th football season of the Detroit Lions of the National Football League (NFL). It was their third year under head coach Rod Marinelli. In 2008, the Lions had one of the worst seasons of any major American pro sports team. They lost all 16 of their regular season games. They were the first NFL team to finish a season with no wins and 16 losses after their loss to the Green Bay Packers.'
+    document.getElementById('response-img-1').src = 'Images/danorlovsky.jpg'
+    document.getElementById('response-text-2').innerText = 'The quarterback situation is retroactively blamed for the 2008 team’s historic failure. Then-Lions assistant coach Kippy Brown recently told the Free Press that he feels to this day Detroit would’ve won at least one game if it had stuck with Kitna all season. After putting Jon Kitna on IR, the Lions played Dan Orlovsky, then brought Daunte Culpepper out of retirement. But the rusty Culpepper played in only five games before suffering his own season-ending injury, forcing Orlovsky back into the spotlight. This was the season that Orlovsky became notorius for his "own safety."'
+    document.getElementById('response-img-2').src = 'Images/rodmarinelli.jpg'
+    document.getElementById('response-img-3').src = 'Images/calvinjohnson.jpg'
     window.scrollTo(0, 0);
 }
