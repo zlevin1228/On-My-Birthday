@@ -23,6 +23,10 @@ body {
     background-size: cover;
 }
 
+h1, h5 {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
 .content {
   height: auto;
   border: 10px solid white;
